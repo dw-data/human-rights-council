@@ -1,5 +1,5 @@
 
-# Natural Sinks
+# How democratic is the UN Human Rights Council?
 
 _Idea:_  [Michel Penke](https://michelpenke.de)\
 _Research, data analysis and data visualization:_  [Michel Penke](https://michelpenke.de)\
