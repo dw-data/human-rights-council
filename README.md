@@ -6,7 +6,7 @@ _Research, data analysis and data visualization:_  [Michel Penke](https://michel
 _Writing:_  [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](XXX)
+- [English](https://dw.com/a-66801110)
 
 Threats, impositions and blockades - autocracies have the majority in the UN Human Rights Council today and protect each other from criticism. But even NGOs do not want to reform it. The worry is that things could get even worse.  
 
@@ -20,8 +20,8 @@ The following text will explain the process behind this story: Which data source
 | **Data** | **Source** | **Link** |
 | --- | --- | --- |
 | Documents and Resolutions | UNHRC| [Data](https://www.ohchr.org/en/hr-bodies/hrc/documents ) |
-| Regular sessions | UNHRC | [Data](https://www.ohchr.org/en/hr-bodies/hrc/regular-sessions)|
-| The V-Dem Dataset | Varities of Democracy | [Data](https://www.v-dem.net/data/the-v-dem-dataset/)|
+| Regular sessions | UNHRC | [Data](https://www.ohchr.org/en/hr-bodies/hrc/regular-sessions) |
+| The V-Dem Dataset | Varities of Democracy | [Data](https://www.v-dem.net/data/the-v-dem-dataset/) |
 
 
 # Analysis
