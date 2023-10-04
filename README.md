@@ -29,7 +29,7 @@ The following text will explain the process behind this story: Which data source
 
 The first chart is a simple illustration of the members of the Human Rights Council. Every year, the Council elects one third of its members. After three years, each country leaves again. In addition, there are politically determined, geographical quotas: Asia and Africa each send 13 members, Western Europe and North America 7, Eastern Europe 6 and Latin America 8.
 
-![](graphics/230321_v1_EN_rmembers_EN.jpg)
+![](graphics/230321_v1_EN_rmembers_EN.png)
 
 
 ### Human Rights Score of the Council
@@ -44,7 +44,7 @@ For the second graph, the human rights score of each member country was determin
 
 At the end, the members' human rights scores for each year were tallied and the median calculated. 
 
-![](graphics/230321_v1_EN_score_EN.jpg)
+![](graphics/230321_v1_EN_score_EN.png)
 
 _Caveats: Since the quantification of the granting of human rights is determined subjectively by researchers, another index, the [Democracy Matrix](https://www.demokratiematrix.de), was used for the purpose of verification and the median was determined using the same procedure. The results of the V-Dem and Democracy Matrix showed a high degree of agreement._
 
@@ -52,6 +52,11 @@ _Caveats: Since the quantification of the granting of human rights is determined
 
 For the presentation of the UNHRC's resolutions, the organisation's website was scraped with the help of [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) and later analysed. For the classification into country-specific and non-country-specific, it was checked whether a geographical location existed in the title of the resolution. For this purpose, the UN's glossary of terms for geographical locations was used. 
 
-![](graphics/230321_v1_EN_resolutions_EN.jpg)
+![](graphics/230321_v1_EN_resolutions_EN.png)
 
 _Caveats: It is possible that individual geographical names that are not country names (e.g. "Darfur") were not included in the UN glossary and were therefore not recognised during the identification process. However, these are likely to be isolated cases (probably around a dozen) that should not have noticeably changed the result and the presentation._
+
+The data was taken from the official registers of the United Nation. 
+
+![](graphics/230321_v1_EN_vote_EN.png)
+
