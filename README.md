@@ -42,7 +42,7 @@ For the second graph, the human rights score of each member country was determin
 #### v2x_liberal
 *"The liberal principle of democracy emphasizes the importance of protecting individual and minority rights against the tyranny of the state and the tyranny of the majority. The liberal model takes a "negative" view of political power insofar as it judges the quality of democracy by the limits placed on government. This is achieved by constitutionally protected civil liberties, strong rule of law, an independent judiciary, and effective checks and balances that, together, limit the exercise of executive power. To make this a measure of liberal democracy, the index also takes the level of electoral democracy into account."*
 
-At the end, the members' human rights scores for each year were tallied and the median calculated. You can follow the calculations (here)[https://deutschewelle-my.sharepoint.com/:x:/g/personal/michel_penke_dw_com/Ef4MB_uuXHtMpqzgZ5hXBX0BbYygmejsN8Sgxrt8ZW25NQ?e=awrQWI].
+At the end, the members' human rights scores for each year were tallied and the median calculated. You can follow the calculations [here](https://deutschewelle-my.sharepoint.com/:x:/g/personal/michel_penke_dw_com/Ef4MB_uuXHtMpqzgZ5hXBX0BbYygmejsN8Sgxrt8ZW25NQ?e=awrQWI).
 
 ![](graphics/230321_v1_EN_score_EN.png)
 
